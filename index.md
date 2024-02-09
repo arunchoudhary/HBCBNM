@@ -2,7 +2,7 @@
 title: SFMC
 layout: template
 filename: index
-content: This is test content
+footer: This is test content
 --- 
 
 # Index page
